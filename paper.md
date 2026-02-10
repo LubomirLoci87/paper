@@ -3,8 +3,8 @@ Aircraft measurements and simulations of
 biomass burning aerosols over West Africa
 
 # Author
-Lubomir Loci
 John Smith
+Lubomir Loci
 
 # Introduction
 We present aircraft measurements of BBOA over West Africa.
